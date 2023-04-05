@@ -6,7 +6,7 @@
                 "isWonder": true,
 		"specialistSlots": {"Scientist": 2},
 		"hurryCostModifier": 25,
-		"uniques":["+1 Science Per 2 Population", "New [Military] units start with [350] Experience [in this city]"],
+		"uniques":["+1 Science Per 2 Population", "New [Military] units start with [1050] Experience [in this city]"],
 		"requiredTech": "Military Science"
 	}
 ]
