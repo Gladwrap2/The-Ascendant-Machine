@@ -3,10 +3,11 @@
 		"name": "Ascendant Machine",
 		"cost": 1500,
 		"maintenance": 25,
-                "isWonder": true,
+		"science": 5,
+                "isNationalWonder": true,
 		"specialistSlots": {"Scientist": 2},
-		"hurryCostModifier": 25,
-		"uniques":["+1 Science Per 2 Population", "New [Military] units start with [1050] Experience [in this city]"],
+		"hurryCostModifier": 5,
+		"uniques":["[+1 Science] per [4] population [in all cities]", "New [Military] units start with [40] Experience [in this city]", "New [Military] units start with [15] Experience [in all cities]"],
 		"requiredTech": "Military Science"
 	}
 ]
